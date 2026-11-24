@@ -1,0 +1,15 @@
+C:\Users\ZzJino\source\repos\CafeSystem\CafeSystem\bin\Debug\net10.0\CafeSystem.exe
+C:\Users\ZzJino\source\repos\CafeSystem\CafeSystem\bin\Debug\net10.0\CafeSystem.deps.json
+C:\Users\ZzJino\source\repos\CafeSystem\CafeSystem\bin\Debug\net10.0\CafeSystem.runtimeconfig.json
+C:\Users\ZzJino\source\repos\CafeSystem\CafeSystem\bin\Debug\net10.0\CafeSystem.dll
+C:\Users\ZzJino\source\repos\CafeSystem\CafeSystem\bin\Debug\net10.0\CafeSystem.pdb
+C:\Users\ZzJino\source\repos\CafeSystem\CafeSystem\obj\Debug\net10.0\CafeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZzJino\source\repos\CafeSystem\CafeSystem\obj\Debug\net10.0\CafeSystem.AssemblyInfoInputs.cache
+C:\Users\ZzJino\source\repos\CafeSystem\CafeSystem\obj\Debug\net10.0\CafeSystem.AssemblyInfo.cs
+C:\Users\ZzJino\source\repos\CafeSystem\CafeSystem\obj\Debug\net10.0\CafeSystem.csproj.CoreCompileInputs.cache
+C:\Users\ZzJino\source\repos\CafeSystem\CafeSystem\obj\Debug\net10.0\CafeSystem.dll
+C:\Users\ZzJino\source\repos\CafeSystem\CafeSystem\obj\Debug\net10.0\refint\CafeSystem.dll
+C:\Users\ZzJino\source\repos\CafeSystem\CafeSystem\obj\Debug\net10.0\CafeSystem.pdb
+C:\Users\ZzJino\source\repos\CafeSystem\CafeSystem\obj\Debug\net10.0\CafeSystem.genruntimeconfig.cache
+C:\Users\ZzJino\source\repos\CafeSystem\CafeSystem\obj\Debug\net10.0\ref\CafeSystem.dll
+C:\Users\ZzJino\source\repos\CafeSystem\CafeSystem\obj\Debug\net10.0\CafeSystem.csproj.Up2Date

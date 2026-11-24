@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CafeSystem.Tests/CafeSystem.Tests.csproj" />
+  <Project Path="CafeSystem/CafeSystem.csproj" />
+</Solution>
