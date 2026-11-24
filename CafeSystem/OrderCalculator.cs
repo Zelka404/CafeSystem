@@ -34,4 +34,9 @@ public class OrderCalculator
             throw new InvalidOperationException("Блюдо закончилось");
         }
     }
+
+    public decimal CalculateTax(decimal total)
+    {
+        return total * 0.2m;
+    }
 }
